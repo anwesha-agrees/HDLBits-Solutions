@@ -167,7 +167,7 @@ Optimized for <strong>digital design</strong>, <strong>FPGA</strong>, <strong>AS
 </details>
 
 <details>
-<summary><b>⏱️ Sequential Logic</b></summary>
+<summary><b> Sequential Logic</b></summary>
 <br>
 
 #### Latches and Flip-Flops
