@@ -313,7 +313,14 @@ Optimized for <strong>digital design</strong>, <strong>FPGA</strong>, <strong>AS
 </details>
 
 ---
+##  Contributing
 
+Contributions are welcome! If you have something useful to add, feel free to do so. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
+
+1. Fork the repository
+2. Create a branch: `git checkout -b fix/problem-name`
+3. Commit: `git commit -m "Add solution for XYZ"`
+4. Push and open a Pull Request
 
 ##  License
 
