@@ -8,7 +8,7 @@ Optimized for <strong>digital design</strong>, <strong>FPGA</strong>, <strong>AS
 [![Problems](https://img.shields.io/badge/Problems-182-blue?style=for-the-badge&logo=circuitverse)](https://hdlbits.01xz.net)
 [![Language](https://img.shields.io/badge/Language-Verilog-blueviolet?style=for-the-badge)](https://en.wikipedia.org/wiki/Verilog)
 
----
+
 <p><i>Go to HDLBits Problem Sets: https://hdlbits.01xz.net/wiki/Problem_sets</i></p>
 
 </div>
@@ -315,18 +315,13 @@ Optimized for <strong>digital design</strong>, <strong>FPGA</strong>, <strong>AS
 ---
 ##  Contributing
 
-Contributions are welcome! If you have something useful to add, feel free to do so. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
-
-1. Fork the repository
-2. Create a branch: `git checkout -b fix/problem-name`
-3. Commit: `git commit -m "Add solution for XYZ"`
-4. Push and open a Pull Request
+<p>Contributions are welcome! If you have something useful to add, feel free to do so. Please read [CONTRIBUTING.md](CONTRIBUTING.md).</p>
+ ---
 
 ##  License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
----
 
 <div align="center">
 
