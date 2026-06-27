@@ -9,7 +9,7 @@ Optimized for <strong>digital design</strong>, <strong>FPGA</strong>, <strong>AS
 [![Language](https://img.shields.io/badge/Language-Verilog-blueviolet?style=for-the-badge)](https://en.wikipedia.org/wiki/Verilog)
 
 
-<p><i>Go to HDLBits Problem Sets: https://hdlbits.01xz.net/wiki/Problem_sets</i></p>
+<p><i>Go to HDLBits Problem Sets by clicking on the icon next to problems above. </i></p>
 
 </div>
 
