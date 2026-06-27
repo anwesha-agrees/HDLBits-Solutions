@@ -312,10 +312,7 @@ Optimized for <strong>digital design</strong>, <strong>FPGA</strong>, <strong>AS
 
 </details>
 
----
-##  Contributing
 
-<p>Contributions are welcome! If you have something useful to add, feel free to do so. Please read [CONTRIBUTING.md](CONTRIBUTING.md).</p>
  ---
 
 ##  License
