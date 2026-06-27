@@ -319,6 +319,8 @@ Optimized for <strong>digital design</strong>, <strong>FPGA</strong>, <strong>AS
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
+---
+
 
 <div align="center">
 
