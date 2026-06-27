@@ -325,8 +325,9 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 <div align="center">
 
+
 ⭐ If this helped you, please star the repository!
 
-Hope this is useful for the digital design community
+🌻For the digital design community.
 
 </div>
